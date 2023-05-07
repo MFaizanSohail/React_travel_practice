@@ -7,7 +7,7 @@
 
 .home,
 .services,
-.products,
+.contact,
 .sign-up {
   display: flex;
   height: 90vh;
@@ -25,10 +25,10 @@
   font-size: 100px;
 }
 
-.products {
+.contact {
   background-image: url('/public/images/img-1.jpg');
   background-position: center;
-  background-size: fill;
+  background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
