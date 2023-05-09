@@ -1,6 +1,12 @@
-import React, { Component } from 'react';
-import '../../App.css';
+import React, { Component } from "react";
+import "../../App.css";
+import ContactForm from "../ContactForm";
 
-export default function Contact (){
-    return <h1 className="contact">Contact</h1>        
+export default function Contact() {
+  return (
+    <div className="contact">
+      <h1 className="contact-heading">Contact</h1>
+      <ContactForm />
+    </div>
+  );
 }

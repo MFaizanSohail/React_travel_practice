@@ -2,43 +2,57 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 .home,
 .services,
 .contact,
-.sign-up {
-  display: flex;
+.sign-up-heading {
   height: 90vh;
-  align-items: center;
-  justify-content: center;
   font-size: 3rem;
 }
 
 .services {
-  background-image: url('/public/images/img-2.jpg');
+  background-image: url("/public/images/img-2.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
 }
 
 .contact {
-  background-image: url('/public/images/img-1.jpg');
-  background-position: center;
+  background-image: url("/public/images/img-5.jpg");
+  background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
 }
 
 .sign-up {
-  background-image: url('/public/images/img-8.jpg');
+  background-image: url("/public/images/img-8.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.services-cards {
+  font-size: medium;
+}
+
+.services-cards .cards {
+  background: transparent;
+}
+
+.services-cards .cards__item__link {
+  background-color: #fff;
+}
+
+.services-heading,
+.contact-heading,
+.sign-up-heading {
   color: #fff;
+  padding-top: 20px;
+  height: 25vh;
   font-size: 100px;
+  align-items: center;
+  justify-content: center;
 }

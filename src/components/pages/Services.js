@@ -1,6 +1,14 @@
-import React, { Component } from 'react';
-import '../../App.css';
+import React, { Component } from "react";
+import "../../App.css";
+import Cards from "../Cards";
 
-export default function Services (){
-    return <h1 className="services">Services</h1>        
+export default function Services() {
+  return (
+    <div className="services">
+      <h1 className="services-heading">Services</h1>
+      <div className="services-cards">
+        <Cards />
+      </div>
+    </div>
+  );
 }
