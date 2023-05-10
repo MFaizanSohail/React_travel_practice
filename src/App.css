@@ -10,7 +10,6 @@
 .contact,
 .sign-up-heading {
   height: 90vh;
-  font-size: 3rem;
 }
 
 .services {
@@ -40,6 +39,11 @@
 
 .services-cards .cards {
   background: transparent;
+  padding: 1rem;
+}
+
+.services-cards .cards__items{
+  justify-content: center;
 }
 
 .services-cards .cards__item__link {

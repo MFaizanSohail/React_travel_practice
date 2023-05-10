@@ -12,8 +12,8 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  margin: 0rem 25% 0rem 25%;
-  padding: auto;
+  margin: 0rem 25% 5rem 25%;
+  padding: 0px 0px 3rem 0px;
   background-color: rgba(253, 32, 32, 0.507);
 }
 
@@ -24,6 +24,5 @@
   display: flex;
   flex-wrap: nowrap;
   border: none;
-  /* font-size: 20px; */
   margin: 10px 0px;
 }
