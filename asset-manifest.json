@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React_travel_practice/static/css/main.a03b3fb9.css",
-    "main.js": "/React_travel_practice/static/js/main.879acb3d.js",
-    "static/media/img-2.jpg": "/React_travel_practice/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-5.jpg": "/React_travel_practice/static/media/img-5.7fadbe1bc2b9569a1941.jpg",
-    "static/media/img-8.jpg": "/React_travel_practice/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "static/media/profile.png": "/React_travel_practice/static/media/profile.a331eb25bf9c6cddf601.png",
-    "index.html": "/React_travel_practice/index.html",
-    "main.a03b3fb9.css.map": "/React_travel_practice/static/css/main.a03b3fb9.css.map",
-    "main.879acb3d.js.map": "/React_travel_practice/static/js/main.879acb3d.js.map"
+    "main.css": "/portfolio/static/css/main.6e1043a9.css",
+    "main.js": "/portfolio/static/js/main.d78e20ae.js",
+    "static/media/img-2.jpg": "/portfolio/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-5.jpg": "/portfolio/static/media/img-5.7fadbe1bc2b9569a1941.jpg",
+    "static/media/img-8.jpg": "/portfolio/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/profile.png": "/portfolio/static/media/profile.a331eb25bf9c6cddf601.png",
+    "index.html": "/portfolio/index.html",
+    "main.6e1043a9.css.map": "/portfolio/static/css/main.6e1043a9.css.map",
+    "main.d78e20ae.js.map": "/portfolio/static/js/main.d78e20ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.a03b3fb9.css",
-    "static/js/main.879acb3d.js"
+    "static/css/main.6e1043a9.css",
+    "static/js/main.d78e20ae.js"
   ]
 }
